@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ea2e482-03ef-43e4-9bec-acdd34893056"
+      }
+    },
+    "owner": "devdiop"
   }
 }
